@@ -10,7 +10,7 @@
 
 <a href="https://github.com/svshivapuja">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svshivapuja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svshivapuja&langs_count=8&theme=gotham&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svshivapuja&langs_count=8&theme=dracula&count_private=true"/>
 </a>
 
 ### Wakatime Week Stats :alarm_clock:
