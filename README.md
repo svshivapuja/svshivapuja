@@ -10,7 +10,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=svshivapuja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Srava's github stats"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svshivapuja&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svshivapuja&theme=dracula" />
 </a>
 
 ### Wakatime Week Stats :alarm_clock:
