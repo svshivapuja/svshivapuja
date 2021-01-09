@@ -8,13 +8,13 @@
 
 ### Github Stats :point_down:
 
-<a href="https://github.com/svshivapuja">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svshivapuja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svshivapuja&langs_count=8&theme=dracula&count_private=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svshivapuja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Srava's github stats"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
 </a>
 
 ### Wakatime Week Stats :alarm_clock:
 
- <a href="https://github.com/ks716">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=svshivapuja&theme=dracula"/>
 </a>
