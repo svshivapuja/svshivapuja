@@ -17,5 +17,5 @@
 ### Wakatime Week Stats :alarm_clock:
 
 <a>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?/username=svshivapuja&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?/username=svshivapuja&theme=dracula"/>
 </a>
