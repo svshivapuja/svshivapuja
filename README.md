@@ -2,7 +2,8 @@
 
 ### Hi! I'm [Sravya Vardhani Shivapuja](https://github.com/svshivapuja) 
 
-:bust_in_silhouette: I'm currently a MS Research student at [IIIT Hyderabad](https://www.iiit.ac.in) working in the field Computer Vision
+
+:bust_in_silhouette: I'm currently a MS Research student at [IIIT Hyderabad](https://www.iiit.ac.in) working in the field Computer Vision.
 
 [![Linkedin: Sravya](https://img.shields.io/badge/LinkedIn-Sravya%20vardhani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/svshivapuja/)](https://www.linkedin.com/in/svshivapuja/)
 
