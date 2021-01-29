@@ -14,8 +14,8 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svshivapuja&theme=dracula&count_private=true"/>
 </a>
 
-### Wakatime Week Stats :alarm_clock:
+// ### Wakatime Week Stats :alarm_clock:
 
- <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=svshivapuja&theme=dracula"/>
-</a>
+ // <a>
+//     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?/username=svshivapuja&theme=dracula"/>
+// </a>
