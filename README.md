@@ -1,7 +1,6 @@
 
 
-### Hi! I'm [Sravya Vardhani Shivapuja](https://github.com/svshivapuja) 
-
+### Hi! I'm [Sravya Vardhani Shivapuja](https://github.com/svshivapuja).
 
 :bust_in_silhouette: I'm currently a MS Research student at [IIIT Hyderabad](https://www.iiit.ac.in) working in the field Computer Vision.
 
