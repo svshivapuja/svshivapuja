@@ -10,7 +10,7 @@
 
 <a >
   <img src="https://github-readme-stats.vercel.app/api?username=svshivapuja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Srava's github stats"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svshivapuja&theme=dracula&count_private=true"/>
+<!--   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svshivapuja&theme=dracula&count_private=true"/> -->
 </a>
 
 <!---
